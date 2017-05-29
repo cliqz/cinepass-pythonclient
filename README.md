@@ -1,7 +1,7 @@
 cinepass-pythonclient, a Python SDK for cinepass.de - by CLIQZ
 =====================
 
-![Cliqz logo](https://github.com/gabormay/cinepass-pythonclient/blob/img/cliqz250x88.png?raw=true)
+[![Cliqz logo](https://github.com/gabormay/cinepass-pythonclient/blob/img/cliqz250x88.png?raw=true)](https://cliqz.com)
 > Cliqz, a German company owned by Mozilla and Hubert Burda Media, is a provider of innovative, privacy-focused browser technologies with integrated quick-search functionality and anti-tracking. Visit https://cliqz.com for more information.
 
 ## Overview
