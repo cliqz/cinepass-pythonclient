@@ -4,8 +4,8 @@ cinepass-pythonclient, a Python SDK for cinepass.de - by CLIQZ
 ![Cliqz logo](https://github.com/gabormay/cinepass-pythonclient/blob/img/cliqz250x88.png?raw=true)
 > Cliqz, a German company owned by Mozilla and Hubert Burda Media, is a provider of innovative, privacy-focused browser technologies with integrated quick-search functionality and anti-tracking. Visit https://cliqz.com for more information.
 
-This library can be used for access to
-https://cinepass.de REST API via Python.
+## Overview
+This library can be used for access to https://cinepass.de REST API via Python.
 Detailed description of API you can find at https://api.cinepass.de/documentation.
 
 
@@ -20,7 +20,10 @@ Basic usage:
 ```
 
 ## Installation
+For the time being you need to use this lib from source, no package provided.
 
 ## Tests
+See the tests directory
 
 ## Documentation
+The library aims to provide a direct mapping for the Cinepass API. See https://cinepass.de for the detailed documentation regarding the API.
