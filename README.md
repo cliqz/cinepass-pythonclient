@@ -25,4 +25,4 @@ For the time being you need to use this lib from source, no package provided.
 See the tests directory
 
 ## Documentation
-The library aims to provide a direct mapping for the Cinepass API. See https://cinepass.de for the detailed documentation regarding the API.
+The library aims to provide a direct mapping for the Cinepass API. See https://api.cinepass.de/documentation for a detailed documentation of the API.
