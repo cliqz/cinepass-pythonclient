@@ -26,3 +26,8 @@ See the tests directory
 
 ## Documentation
 The library aims to provide a direct mapping for the Cinepass API. See https://api.cinepass.de/documentation for a detailed documentation of the API.
+
+## Contributing
+* Bug reports, feature requests and general question can be added as an Issue. 
+* PRs are welcome. 
+* Questions? Concerns? Feel free to [contact us](mailto:cliqz-oss@cliqz.com?subject=cinepass-pythonclient).
